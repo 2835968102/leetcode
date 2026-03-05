@@ -48,6 +48,12 @@
 
 ## 刷题进度
 
-- [ ] 简单 Easy
-- [ ] 中等 Medium
-- [ ] 困难 Hard
+- 简单 Easy：0 题
+- 中等 Medium：1 题
+- 困难 Hard：0 题
+
+## 题目列表
+
+| 题号 | 题目 | 难度 | 标签 | 题解 |
+|------|------|------|------|------|
+| 105 | [从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 中等 | 树、哈希表、递归 | [Java](src/tree/_105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java) |
