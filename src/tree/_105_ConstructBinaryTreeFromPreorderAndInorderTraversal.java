@@ -17,12 +17,6 @@ import java.util.Map;
  */
 public class _105_ConstructBinaryTreeFromPreorderAndInorderTraversal {
 
-    public static class TreeNode {
-        int val;
-        TreeNode left, right;
-        TreeNode(int val) { this.val = val; }
-    }
-
     // 缓存中序遍历 值 -> 下标
     private Map<Integer, Integer> inorderIndex;
     private int[] preorder;
