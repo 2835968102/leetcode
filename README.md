@@ -1,33 +1,23 @@
 # Java 算法题解
 
-用 Java 刷算法题的代码仓库，主要涵盖 LeetCode 等平台的题目。
+用 Java 刷算法题的代码仓库，主要覆盖 LeetCode 等平台的题目。
 
 ## 目录结构
 
-```
+```text
 .
 ├── src/
 │   ├── array/          # 数组
-│   ├── string/         # 字符串
-│   ├── linkedlist/     # 链表
-│   ├── tree/           # 树
-│   ├── graph/          # 图
-│   ├── dp/             # 动态规划
 │   ├── backtracking/   # 回溯
-│   ├── greedy/         # 贪心
-│   ├── binarysearch/   # 二分查找
-│   ├── sort/           # 排序
-│   ├── stack/          # 栈
-│   ├── queue/          # 队列
-│   ├── heap/           # 堆
-│   ├── math/           # 数学
-│   └── other/          # 其他
+│   ├── graph/          # 图
+│   └── tree/           # 树
+├── docs/
 └── README.md
 ```
 
 ## 命名规范
 
-每道题建议以题号开头命名，例如：
+每道题建议使用 `_<题号>_<英文题名>.java` 命名，例如：
 
 - `_001_TwoSum.java`
 - `_102_BinaryTreeLevelOrderTraversal.java`
@@ -45,11 +35,13 @@
 | 二分查找 | Binary Search |
 | 并查集 | Union Find |
 | 单调栈 | Monotonic Stack |
+| 回溯 | Backtracking |
+| 位运算 | Bit Manipulation |
 
 ## 刷题进度
 
 - 简单 Easy：4 题
-- 中等 Medium：23 题
+- 中等 Medium：26 题
 - 困难 Hard：2 题
 
 ## 题目列表
@@ -57,7 +49,9 @@
 | 题号 | 题目 | 难度 | 标签 | 题解 | 完成日期 |
 |------|------|------|------|------|----------|
 | 17 | [电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | 中等 | 回溯、哈希表 | [Java](src/backtracking/_17_LetterCombinationsOfAPhoneNumber.java) | 2026-03-25 |
+| 39 | [组合总和](https://leetcode.cn/problems/combination-sum/) | 中等 | 回溯、DFS | [Java](src/backtracking/_39_CombinationSum.java) | 2026-04-02 |
 | 46 | [全排列](https://leetcode.cn/problems/permutations/) | 中等 | 回溯、DFS | [Java](src/backtracking/_46_Permutations.java) | 2026-04-01 |
+| 52 | [N 皇后 II](https://leetcode.cn/problems/n-queens-ii/) | 中等 | 回溯、DFS、位运算 | [Java](src/backtracking/_52_NQueensII.java) | 2026-04-07 |
 | 77 | [组合](https://leetcode.cn/problems/combinations/) | 中等 | 回溯、DFS、剪枝 | [Java](src/backtracking/_77_Combinations.java) | 2026-04-01 |
 | 98 | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | 中等 | 树、BST、中序遍历、栈 | [Java](src/tree/_98_ValidateBinarySearchTree.java) | 2026-03-17 |
 | 102 | [二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | 中等 | 树、BFS | [Java](src/tree/_102_BinaryTreeLevelOrderTraversal.java) | 2026-03-16 |
@@ -77,7 +71,7 @@
 | 199 | [二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/) | 中等 | 树、BFS | [Java](src/tree/_199_BinaryTreeRightSideView.java) | 2026-03-16 |
 | 200 | [岛屿数量](https://leetcode.cn/problems/number-of-islands/) | 中等 | 图、DFS、网格 | [Java](src/graph/_200_NumberOfIslands.java) | 2026-03-17 |
 | 207 | [课程表](https://leetcode.cn/problems/course-schedule/) | 中等 | 图、DFS、拓扑排序、环检测 | [Java](src/graph/_207_CourseSchedule.java) | 2026-03-18 |
-| 208 | [实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/) | 中等 | 前缀树、设计 | [Java](src/tree/_208_ImplementTrie.java) | 2026-03-24 |
+| 208 | [实现 Trie（前缀树）](https://leetcode.cn/problems/implement-trie-prefix-tree/) | 中等 | 前缀树、设计 | [Java](src/tree/_208_ImplementTrie.java) | 2026-03-24 |
 | 211 | [添加与搜索单词](https://leetcode.cn/problems/design-add-and-search-words-data-structure/) | 中等 | 前缀树、DFS、设计 | [Java](src/tree/_211_WordDictionary.java) | 2026-03-24 |
 | 212 | [单词搜索 II](https://leetcode.cn/problems/word-search-ii/) | 困难 | 前缀树、DFS、回溯 | [Java](src/tree/_212_WordSearchII.java) | 2026-03-25 |
 | 222 | [完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/) | 中等 | 树、完全二叉树、二分 | [Java](src/tree/_222_CountCompleteTreeNodes.java) | 2026-03-11 |
