@@ -41,7 +41,7 @@
 ## 刷题进度
 
 - 简单 Easy：4 题
-- 中等 Medium：26 题
+- 中等 Medium：27 题
 - 困难 Hard：2 题
 
 ## 题目列表
@@ -49,6 +49,7 @@
 | 题号 | 题目 | 难度 | 标签 | 题解 | 完成日期 |
 |------|------|------|------|------|----------|
 | 17 | [电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | 中等 | 回溯、哈希表 | [Java](src/backtracking/_17_LetterCombinationsOfAPhoneNumber.java) | 2026-03-25 |
+| 22 | [括号生成](https://leetcode.cn/problems/generate-parentheses/) | 中等 | 回溯、字符串 | [Java](src/backtracking/_22_GenerateParentheses.java) | 2026-04-08 |
 | 39 | [组合总和](https://leetcode.cn/problems/combination-sum/) | 中等 | 回溯、DFS | [Java](src/backtracking/_39_CombinationSum.java) | 2026-04-02 |
 | 46 | [全排列](https://leetcode.cn/problems/permutations/) | 中等 | 回溯、DFS | [Java](src/backtracking/_46_Permutations.java) | 2026-04-01 |
 | 52 | [N 皇后 II](https://leetcode.cn/problems/n-queens-ii/) | 中等 | 回溯、DFS、位运算 | [Java](src/backtracking/_52_NQueensII.java) | 2026-04-07 |
