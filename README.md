@@ -10,6 +10,7 @@
 │   ├── array/          # 数组
 │   ├── backtracking/   # 回溯
 │   ├── graph/          # 图
+│   ├── linkedlist/     # 链表
 │   └── tree/           # 树
 ├── docs/
 └── README.md
@@ -41,7 +42,7 @@
 ## 刷题进度
 
 - 简单 Easy：4 题
-- 中等 Medium：29 题
+- 中等 Medium：30 题
 - 困难 Hard：2 题
 
 ## 题目列表
@@ -70,6 +71,7 @@
 | 130 | [被围绕的区域](https://leetcode.cn/problems/surrounded-regions/) | 中等 | 图、DFS、网格 | [Java](src/graph/_130_SurroundedRegions.java) | 2026-03-18 |
 | 133 | [克隆图](https://leetcode.cn/problems/clone-graph/) | 中等 | 图、DFS、哈希表 | [Java](src/graph/_133_CloneGraph.java) | 2026-03-18 |
 | 144 | [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | 简单 | 树、递归、DFS | [Java](src/tree/_144_BinaryTreePreorderTraversal.java) | 2026-03-10 |
+| 148 | [排序链表](https://leetcode.cn/problems/sort-list/) | 中等 | 链表、归并排序、快慢指针 | [Java](src/linkedlist/_148_SortList.java) | 2026-04-28 |
 | 173 | [二叉搜索树迭代器](https://leetcode.cn/problems/binary-search-tree-iterator/) | 中等 | 树、栈、迭代器、BST | [Java](src/tree/_173_BinarySearchTreeIterator.java) | 2026-03-11 |
 | 199 | [二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/) | 中等 | 树、BFS | [Java](src/tree/_199_BinaryTreeRightSideView.java) | 2026-03-16 |
 | 200 | [岛屿数量](https://leetcode.cn/problems/number-of-islands/) | 中等 | 图、DFS、网格 | [Java](src/graph/_200_NumberOfIslands.java) | 2026-03-17 |
