@@ -42,7 +42,7 @@
 ## 刷题进度
 
 - 简单 Easy：4 题
-- 中等 Medium：30 题
+- 中等 Medium：32 题
 - 困难 Hard：2 题
 
 ## 题目列表
@@ -54,6 +54,7 @@
 | 39 | [组合总和](https://leetcode.cn/problems/combination-sum/) | 中等 | 回溯、DFS | [Java](src/backtracking/_39_CombinationSum.java) | 2026-04-02 |
 | 46 | [全排列](https://leetcode.cn/problems/permutations/) | 中等 | 回溯、DFS | [Java](src/backtracking/_46_Permutations.java) | 2026-04-01 |
 | 52 | [N 皇后 II](https://leetcode.cn/problems/n-queens-ii/) | 中等 | 回溯、DFS、位运算 | [Java](src/backtracking/_52_NQueensII.java) | 2026-04-07 |
+| 53 | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 中等 | 动态规划、分治 | [Java](src/array/_53_MaximumSubarray.java) | 2026-05-07 |
 | 77 | [组合](https://leetcode.cn/problems/combinations/) | 中等 | 回溯、DFS、剪枝 | [Java](src/backtracking/_77_Combinations.java) | 2026-04-01 |
 | 79 | [单词搜索](https://leetcode.cn/problems/word-search/) | 中等 | 回溯、DFS、矩阵 | [Java](src/backtracking/_79_WordSearch.java) | 2026-04-09 |
 | 98 | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | 中等 | 树、BST、中序遍历、栈 | [Java](src/tree/_98_ValidateBinarySearchTree.java) | 2026-03-17 |
@@ -85,3 +86,4 @@
 | 433 | [最小基因变化](https://leetcode.cn/problems/minimum-genetic-mutation/) | 中等 | 图、BFS | [Java](src/graph/_433_MinimumGeneticMutation.java) | 2026-03-20 |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/) | 简单 | 树、BST、中序遍历、DFS | [Java](src/tree/_530_MinimumAbsoluteDifferenceInBst.java) | 2026-03-17 |
 | 637 | [二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | 简单 | 树、BFS | [Java](src/tree/_637_AverageOfLevelsInBinaryTree.java) | 2026-03-16 |
+| 918 | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | 中等 | 动态规划、前缀和 | [Java](src/array/_918_MaximumSumCircularSubarray.java) | 2026-05-07 |
