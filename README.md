@@ -41,8 +41,8 @@
 
 ## 刷题进度
 
-- 简单 Easy：4 题
-- 中等 Medium：32 题
+- 简单 Easy：5 题
+- 中等 Medium：33 题
 - 困难 Hard：2 题
 
 ## 题目列表
@@ -51,10 +51,12 @@
 |------|------|------|------|------|----------|
 | 17 | [电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | 中等 | 回溯、哈希表 | [Java](src/backtracking/_17_LetterCombinationsOfAPhoneNumber.java) | 2026-03-25 |
 | 22 | [括号生成](https://leetcode.cn/problems/generate-parentheses/) | 中等 | 回溯、字符串 | [Java](src/backtracking/_22_GenerateParentheses.java) | 2026-04-08 |
+| 35 | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | 简单 | 数组、二分查找 | [Java](src/array/_35_SearchInsertPosition.java) | 2026-05-09 |
 | 39 | [组合总和](https://leetcode.cn/problems/combination-sum/) | 中等 | 回溯、DFS | [Java](src/backtracking/_39_CombinationSum.java) | 2026-04-02 |
 | 46 | [全排列](https://leetcode.cn/problems/permutations/) | 中等 | 回溯、DFS | [Java](src/backtracking/_46_Permutations.java) | 2026-04-01 |
 | 52 | [N 皇后 II](https://leetcode.cn/problems/n-queens-ii/) | 中等 | 回溯、DFS、位运算 | [Java](src/backtracking/_52_NQueensII.java) | 2026-04-07 |
 | 53 | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 中等 | 动态规划、分治 | [Java](src/array/_53_MaximumSubarray.java) | 2026-05-07 |
+| 74 | [搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/) | 中等 | 数组、矩阵、二分查找 | [Java](src/array/_74_SearchA2DMatrix.java) | 2026-05-09 |
 | 77 | [组合](https://leetcode.cn/problems/combinations/) | 中等 | 回溯、DFS、剪枝 | [Java](src/backtracking/_77_Combinations.java) | 2026-04-01 |
 | 79 | [单词搜索](https://leetcode.cn/problems/word-search/) | 中等 | 回溯、DFS、矩阵 | [Java](src/backtracking/_79_WordSearch.java) | 2026-04-09 |
 | 98 | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | 中等 | 树、BST、中序遍历、栈 | [Java](src/tree/_98_ValidateBinarySearchTree.java) | 2026-03-17 |
