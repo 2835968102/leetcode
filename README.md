@@ -42,7 +42,7 @@
 ## 刷题进度
 
 - 简单 Easy：5 题
-- 中等 Medium：35 题
+- 中等 Medium：36 题
 - 困难 Hard：3 题
 
 ## 题目列表
@@ -86,6 +86,7 @@
 | 208 | [实现 Trie（前缀树）](https://leetcode.cn/problems/implement-trie-prefix-tree/) | 中等 | 前缀树、设计 | [Java](src/tree/_208_ImplementTrie.java) | 2026-03-24 |
 | 211 | [添加与搜索单词](https://leetcode.cn/problems/design-add-and-search-words-data-structure/) | 中等 | 前缀树、DFS、设计 | [Java](src/tree/_211_WordDictionary.java) | 2026-03-24 |
 | 212 | [单词搜索 II](https://leetcode.cn/problems/word-search-ii/) | 困难 | 前缀树、DFS、回溯 | [Java](src/tree/_212_WordSearchII.java) | 2026-03-25 |
+| 215 | [数组中的第K个最大元素](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | 中等 | 堆、快速选择（Quick Select） | [Java](src/binarysearch/_215_KthLargestElementInAnArray.java) | 2026-06-08 |
 | 222 | [完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/) | 中等 | 树、完全二叉树、二分 | [Java](src/tree/_222_CountCompleteTreeNodes.java) | 2026-03-11 |
 | 230 | [二叉搜索树中第 K 小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | 中等 | 树、BST、中序遍历、DFS | [Java](src/tree/_230_KthSmallestElementInABst.java) | 2026-03-17 |
 | 236 | [二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | 中等 | 树、DFS、递归 | [Java](src/tree/_236_LowestCommonAncestorOfBinaryTree.java) | 2026-03-16 |
