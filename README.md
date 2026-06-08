@@ -43,12 +43,13 @@
 
 - 简单 Easy：5 题
 - 中等 Medium：35 题
-- 困难 Hard：2 题
+- 困难 Hard：3 题
 
 ## 题目列表
 
 | 题号 | 题目 | 难度 | 标签 | 题解 | 完成日期 |
 |------|------|------|------|------|----------|
+| 4 | [两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/) | 困难 | 二分查找 | [Java](src/binarysearch/_4_MedianOfTwoSortedArrays.java) | 2026-06-08 |
 | 17 | [电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | 中等 | 回溯、哈希表 | [Java](src/backtracking/_17_LetterCombinationsOfAPhoneNumber.java) | 2026-03-25 |
 | 22 | [括号生成](https://leetcode.cn/problems/generate-parentheses/) | 中等 | 回溯、字符串 | [Java](src/backtracking/_22_GenerateParentheses.java) | 2026-04-08 |
 | 33 | [搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | 中等 | 二分查找 | [Java](src/binarysearch/_33_SearchInRotatedSortedArray.java) | 2026-06-08 |
