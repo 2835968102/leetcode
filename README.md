@@ -42,7 +42,7 @@
 ## 刷题进度
 
 - 简单 Easy：5 题
-- 中等 Medium：34 题
+- 中等 Medium：35 题
 - 困难 Hard：2 题
 
 ## 题目列表
@@ -52,6 +52,7 @@
 | 17 | [电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | 中等 | 回溯、哈希表 | [Java](src/backtracking/_17_LetterCombinationsOfAPhoneNumber.java) | 2026-03-25 |
 | 22 | [括号生成](https://leetcode.cn/problems/generate-parentheses/) | 中等 | 回溯、字符串 | [Java](src/backtracking/_22_GenerateParentheses.java) | 2026-04-08 |
 | 33 | [搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | 中等 | 二分查找 | [Java](src/binarysearch/_33_SearchInRotatedSortedArray.java) | 2026-06-08 |
+| 34 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | 中等 | 二分查找 | [Java](src/binarysearch/_34_FindFirstAndLastPositionOfElementInSortedArray.java) | 2026-06-08 |
 | 35 | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | 简单 | 数组、二分查找 | [Java](src/array/_35_SearchInsertPosition.java) | 2026-05-09 |
 | 39 | [组合总和](https://leetcode.cn/problems/combination-sum/) | 中等 | 回溯、DFS | [Java](src/backtracking/_39_CombinationSum.java) | 2026-04-02 |
 | 46 | [全排列](https://leetcode.cn/problems/permutations/) | 中等 | 回溯、DFS | [Java](src/backtracking/_46_Permutations.java) | 2026-04-01 |
