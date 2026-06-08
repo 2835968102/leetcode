@@ -42,7 +42,7 @@
 ## 刷题进度
 
 - 简单 Easy：5 题
-- 中等 Medium：33 题
+- 中等 Medium：34 题
 - 困难 Hard：2 题
 
 ## 题目列表
@@ -51,6 +51,7 @@
 |------|------|------|------|------|----------|
 | 17 | [电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | 中等 | 回溯、哈希表 | [Java](src/backtracking/_17_LetterCombinationsOfAPhoneNumber.java) | 2026-03-25 |
 | 22 | [括号生成](https://leetcode.cn/problems/generate-parentheses/) | 中等 | 回溯、字符串 | [Java](src/backtracking/_22_GenerateParentheses.java) | 2026-04-08 |
+| 33 | [搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | 中等 | 二分查找 | [Java](src/binarysearch/_33_SearchInRotatedSortedArray.java) | 2026-06-08 |
 | 35 | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | 简单 | 数组、二分查找 | [Java](src/array/_35_SearchInsertPosition.java) | 2026-05-09 |
 | 39 | [组合总和](https://leetcode.cn/problems/combination-sum/) | 中等 | 回溯、DFS | [Java](src/backtracking/_39_CombinationSum.java) | 2026-04-02 |
 | 46 | [全排列](https://leetcode.cn/problems/permutations/) | 中等 | 回溯、DFS | [Java](src/backtracking/_46_Permutations.java) | 2026-04-01 |
@@ -75,6 +76,7 @@
 | 133 | [克隆图](https://leetcode.cn/problems/clone-graph/) | 中等 | 图、DFS、哈希表 | [Java](src/graph/_133_CloneGraph.java) | 2026-03-18 |
 | 144 | [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | 简单 | 树、递归、DFS | [Java](src/tree/_144_BinaryTreePreorderTraversal.java) | 2026-03-10 |
 | 148 | [排序链表](https://leetcode.cn/problems/sort-list/) | 中等 | 链表、归并排序、快慢指针 | [Java](src/linkedlist/_148_SortList.java) | 2026-04-28 |
+| 162 | [寻找峰值](https://leetcode.cn/problems/find-peak-element/) | 简单 | 二分搜索 | [Java](src/binarysearch/_162_FindPeakElement.java) | 2026-06-08 |
 | 173 | [二叉搜索树迭代器](https://leetcode.cn/problems/binary-search-tree-iterator/) | 中等 | 树、栈、迭代器、BST | [Java](src/tree/_173_BinarySearchTreeIterator.java) | 2026-03-11 |
 | 199 | [二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/) | 中等 | 树、BFS | [Java](src/tree/_199_BinaryTreeRightSideView.java) | 2026-03-16 |
 | 200 | [岛屿数量](https://leetcode.cn/problems/number-of-islands/) | 中等 | 图、DFS、网格 | [Java](src/graph/_200_NumberOfIslands.java) | 2026-03-17 |
