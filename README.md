@@ -42,7 +42,7 @@
 ## 刷题进度
 
 - 简单 Easy：5 题
-- 中等 Medium：36 题
+- 中等 Medium：37 题
 - 困难 Hard：4 题
 
 ## 题目列表
@@ -90,6 +90,7 @@
 | 222 | [完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/) | 中等 | 树、完全二叉树、二分 | [Java](src/tree/_222_CountCompleteTreeNodes.java) | 2026-03-11 |
 | 230 | [二叉搜索树中第 K 小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | 中等 | 树、BST、中序遍历、DFS | [Java](src/tree/_230_KthSmallestElementInABst.java) | 2026-03-17 |
 | 236 | [二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | 中等 | 树、DFS、递归 | [Java](src/tree/_236_LowestCommonAncestorOfBinaryTree.java) | 2026-03-16 |
+| 373 | [查找和最小的 K 对数字](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/) | 中等 | 堆 | [Java](src/heap/_373_FindKPairsWithSmallestSums.java) | 2026-06-09 |
 | 433 | [最小基因变化](https://leetcode.cn/problems/minimum-genetic-mutation/) | 中等 | 图、BFS | [Java](src/graph/_433_MinimumGeneticMutation.java) | 2026-03-20 |
 | 502 | [IPO](https://leetcode.cn/problems/ipo/) | 困难 | 堆、贪心 | [Java](src/heap/_502_IPO.java) | 2026-06-09 |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/) | 简单 | 树、BST、中序遍历、DFS | [Java](src/tree/_530_MinimumAbsoluteDifferenceInBst.java) | 2026-03-17 |
