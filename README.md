@@ -43,7 +43,7 @@
 
 - 简单 Easy：5 题
 - 中等 Medium：36 题
-- 困难 Hard：3 题
+- 困难 Hard：4 题
 
 ## 题目列表
 
@@ -91,6 +91,7 @@
 | 230 | [二叉搜索树中第 K 小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | 中等 | 树、BST、中序遍历、DFS | [Java](src/tree/_230_KthSmallestElementInABst.java) | 2026-03-17 |
 | 236 | [二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | 中等 | 树、DFS、递归 | [Java](src/tree/_236_LowestCommonAncestorOfBinaryTree.java) | 2026-03-16 |
 | 433 | [最小基因变化](https://leetcode.cn/problems/minimum-genetic-mutation/) | 中等 | 图、BFS | [Java](src/graph/_433_MinimumGeneticMutation.java) | 2026-03-20 |
+| 502 | [IPO](https://leetcode.cn/problems/ipo/) | 困难 | 堆、贪心 | [Java](src/heap/_502_IPO.java) | 2026-06-09 |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/) | 简单 | 树、BST、中序遍历、DFS | [Java](src/tree/_530_MinimumAbsoluteDifferenceInBst.java) | 2026-03-17 |
 | 637 | [二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | 简单 | 树、BFS | [Java](src/tree/_637_AverageOfLevelsInBinaryTree.java) | 2026-03-16 |
 | 918 | [环形子数组的最大和](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | 中等 | 动态规划、前缀和 | [Java](src/array/_918_MaximumSumCircularSubarray.java) | 2026-05-07 |
