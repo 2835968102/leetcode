@@ -41,9 +41,9 @@
 
 ## 刷题进度
 
-- 简单 Easy：5 题
+- 简单 Easy：6 题
 - 中等 Medium：37 题
-- 困难 Hard：4 题
+- 困难 Hard：5 题
 
 ## 题目列表
 
@@ -59,6 +59,7 @@
 | 46 | [全排列](https://leetcode.cn/problems/permutations/) | 中等 | 回溯、DFS | [Java](src/backtracking/_46_Permutations.java) | 2026-04-01 |
 | 52 | [N 皇后 II](https://leetcode.cn/problems/n-queens-ii/) | 中等 | 回溯、DFS、位运算 | [Java](src/backtracking/_52_NQueensII.java) | 2026-04-07 |
 | 53 | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 中等 | 动态规划、分治 | [Java](src/array/_53_MaximumSubarray.java) | 2026-05-07 |
+| 67 | [二进制求和](https://leetcode.cn/problems/add-binary/) | 简单 | 字符串 | [Java](src/string/_67_AddBinary.java) | 2026-06-09 |
 | 74 | [搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/) | 中等 | 数组、矩阵、二分查找 | [Java](src/array/_74_SearchA2DMatrix.java) | 2026-05-09 |
 | 77 | [组合](https://leetcode.cn/problems/combinations/) | 中等 | 回溯、DFS、剪枝 | [Java](src/backtracking/_77_Combinations.java) | 2026-04-01 |
 | 79 | [单词搜索](https://leetcode.cn/problems/word-search/) | 中等 | 回溯、DFS、矩阵 | [Java](src/backtracking/_79_WordSearch.java) | 2026-04-09 |
@@ -91,6 +92,7 @@
 | 230 | [二叉搜索树中第 K 小的元素](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | 中等 | 树、BST、中序遍历、DFS | [Java](src/tree/_230_KthSmallestElementInABst.java) | 2026-03-17 |
 | 236 | [二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | 中等 | 树、DFS、递归 | [Java](src/tree/_236_LowestCommonAncestorOfBinaryTree.java) | 2026-03-16 |
 | 373 | [查找和最小的 K 对数字](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/) | 中等 | 堆 | [Java](src/heap/_373_FindKPairsWithSmallestSums.java) | 2026-06-09 |
+| 295 | [数据流的中位数](https://leetcode.cn/problems/find-median-from-data-stream/) | 困难 | 堆 | [Java](src/heap/_295_FindMedianFromDataStream.java) | 2026-06-09 |
 | 433 | [最小基因变化](https://leetcode.cn/problems/minimum-genetic-mutation/) | 中等 | 图、BFS | [Java](src/graph/_433_MinimumGeneticMutation.java) | 2026-03-20 |
 | 502 | [IPO](https://leetcode.cn/problems/ipo/) | 困难 | 堆、贪心 | [Java](src/heap/_502_IPO.java) | 2026-06-09 |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/) | 简单 | 树、BST、中序遍历、DFS | [Java](src/tree/_530_MinimumAbsoluteDifferenceInBst.java) | 2026-03-17 |
