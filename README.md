@@ -1,97 +1,98 @@
-# Java 绠楁硶棰樿В
+﻿# Java 缁犳纭舵０妯啃?
 
-鐢?Java 鍒风畻娉曢鐨勪唬鐮佷粨搴擄紝涓昏瑕嗙洊 LeetCode 绛夊钩鍙扮殑棰樼洰銆?
-## 鐩綍缁撴瀯
+閻?Java 閸掗鐣诲▔鏇㈩暯閻ㄥ嫪鍞惍浣风波鎼存搫绱濇稉鏄忣洣鐟曞棛娲?LeetCode 缁涘閽╅崣鎵畱妫版娲伴妴?
+## 閻╊喖缍嶇紒鎾寸€?
 
 ```text
 .
-鈹溾攢鈹€ src/
-鈹?  鈹溾攢鈹€ array/          # 鏁扮粍
-鈹?  鈹溾攢鈹€ backtracking/   # 鍥炴函
-鈹?  鈹溾攢鈹€ graph/          # 鍥?鈹?  鈹溾攢鈹€ linkedlist/     # 閾捐〃
-鈹?  鈹斺攢鈹€ tree/           # 鏍?鈹溾攢鈹€ docs/
-鈹斺攢鈹€ README.md
+閳规壕鏀㈤埞鈧?src/
+閳?  閳规壕鏀㈤埞鈧?array/          # 閺佹壆绮?
+閳?  閳规壕鏀㈤埞鈧?backtracking/   # 閸ョ偞鍑?
+閳?  閳规壕鏀㈤埞鈧?graph/          # 閸?閳?  閳规壕鏀㈤埞鈧?linkedlist/     # 闁炬崘銆?
+閳?  閳规柡鏀㈤埞鈧?tree/           # 閺?閳规壕鏀㈤埞鈧?docs/
+閳规柡鏀㈤埞鈧?README.md
 ```
 
-## 鍛藉悕瑙勮寖
+## 閸涜棄鎮曠憴鍕瘱
 
-姣忛亾棰樺缓璁娇鐢?`_<棰樺彿>_<鑻辨枃棰樺悕>.java` 鍛藉悕锛屼緥濡傦細
+濮ｅ繘浜炬０妯虹紦鐠侇喕濞囬悽?`_<妫版ê褰?_<閼昏鲸鏋冩０妯烘倳>.java` 閸涜棄鎮曢敍灞肩伐婵″偊绱?
 
 - `_001_TwoSum.java`
 - `_102_BinaryTreeLevelOrderTraversal.java`
 
-## 甯哥敤绠楁硶鏍囩
+## 鐢摜鏁ょ粻妤佺《閺嶅洨顒?
 
-| 鏍囩 | 璇存槑 |
+| 閺嶅洨顒?| 鐠囧瓨妲?|
 |------|------|
-| 鍙屾寚閽?| Two Pointers |
-| 婊戝姩绐楀彛 | Sliding Window |
-| 鍓嶇紑鍜?| Prefix Sum |
-| 鍝堝笇琛?| Hash Table |
-| BFS/DFS | 骞垮害/娣卞害浼樺厛鎼滅储 |
-| 鍔ㄦ€佽鍒?| Dynamic Programming |
-| 浜屽垎鏌ユ壘 | Binary Search |
-| 骞舵煡闆?| Union Find |
-| 鍗曡皟鏍?| Monotonic Stack |
-| 鍥炴函 | Backtracking |
-| 浣嶈繍绠?| Bit Manipulation |
+| 閸欏本瀵氶柦?| Two Pointers |
+| 濠婃垵濮╃粣妤€褰?| Sliding Window |
+| 閸撳秶绱戦崪?| Prefix Sum |
+| 閸濆牆绗囩悰?| Hash Table |
+| BFS/DFS | 楠炲灝瀹?濞ｅ崬瀹虫导妯哄帥閹兼粎鍌?|
+| 閸斻劍鈧浇顫夐崚?| Dynamic Programming |
+| 娴滃苯鍨庨弻銉﹀ | Binary Search |
+| 楠炶埖鐓￠梿?| Union Find |
+| 閸楁洝鐨熼弽?| Monotonic Stack |
+| 閸ョ偞鍑?| Backtracking |
+| 娴ｅ秷绻嶇粻?| Bit Manipulation |
 
-## 鍒烽杩涘害
+## 閸掔兘顣芥潻娑樺
 
-- 简单 Easy：8 题 - 中等 Medium：37 题 - 困难 Hard：5 题
-## 棰樼洰鍒楄〃
+- 绠€鍗?Easy锛?0 棰?- 涓瓑 Medium锛?7 棰?- 鍥伴毦 Hard锛? 棰?## 妫版娲伴崚妤勩€?
 
-| 棰樺彿 | 棰樼洰 | 闅惧害 | 鏍囩 | 棰樿В | 瀹屾垚鏃ユ湡 |
+| 妫版ê褰?| 妫版娲?| 闂呮儳瀹?| 閺嶅洨顒?| 妫版袙 | 鐎瑰本鍨氶弮銉︽埂 |
 |------|------|------|------|------|----------|
-| 4 | [涓や釜姝ｅ簭鏁扮粍鐨勪腑浣嶆暟](https://leetcode.cn/problems/median-of-two-sorted-arrays/) | 鍥伴毦 | 浜屽垎鏌ユ壘 | [Java](src/binarysearch/_4_MedianOfTwoSortedArrays.java) | 2026-06-08 |
-| 17 | [鐢佃瘽鍙风爜鐨勫瓧姣嶇粍鍚圿(https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | 涓瓑 | 鍥炴函銆佸搱甯岃〃 | [Java](src/backtracking/_17_LetterCombinationsOfAPhoneNumber.java) | 2026-03-25 |
-| 22 | [鎷彿鐢熸垚](https://leetcode.cn/problems/generate-parentheses/) | 涓瓑 | 鍥炴函銆佸瓧绗︿覆 | [Java](src/backtracking/_22_GenerateParentheses.java) | 2026-04-08 |
-| 33 | [鎼滅储鏃嬭浆鎺掑簭鏁扮粍](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | 涓瓑 | 浜屽垎鏌ユ壘 | [Java](src/binarysearch/_33_SearchInRotatedSortedArray.java) | 2026-06-08 |
-| 34 | [鍦ㄦ帓搴忔暟缁勪腑鏌ユ壘鍏冪礌鐨勭涓€涓拰鏈€鍚庝竴涓綅缃甝(https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | 涓瓑 | 浜屽垎鏌ユ壘 | [Java](src/binarysearch/_34_FindFirstAndLastPositionOfElementInSortedArray.java) | 2026-06-08 |
-| 35 | [鎼滅储鎻掑叆浣嶇疆](https://leetcode.cn/problems/search-insert-position/) | 绠€鍗?| 鏁扮粍銆佷簩鍒嗘煡鎵?| [Java](src/array/_35_SearchInsertPosition.java) | 2026-05-09 |
-| 39 | [缁勫悎鎬诲拰](https://leetcode.cn/problems/combination-sum/) | 涓瓑 | 鍥炴函銆丏FS | [Java](src/backtracking/_39_CombinationSum.java) | 2026-04-02 |
-| 46 | [鍏ㄦ帓鍒梋(https://leetcode.cn/problems/permutations/) | 涓瓑 | 鍥炴函銆丏FS | [Java](src/backtracking/_46_Permutations.java) | 2026-04-01 |
-| 52 | [N 鐨囧悗 II](https://leetcode.cn/problems/n-queens-ii/) | 涓瓑 | 鍥炴函銆丏FS銆佷綅杩愮畻 | [Java](src/backtracking/_52_NQueensII.java) | 2026-04-07 |
-| 53 | [鏈€澶у瓙鏁扮粍鍜宂(https://leetcode.cn/problems/maximum-subarray/) | 涓瓑 | 鍔ㄦ€佽鍒掋€佸垎娌?| [Java](src/array/_53_MaximumSubarray.java) | 2026-05-07 |
-| 67 | [浜岃繘鍒舵眰鍜宂(https://leetcode.cn/problems/add-binary/) | 绠€鍗?| 瀛楃涓?| [Java](src/string/_67_AddBinary.java) | 2026-06-09 |
-| 74 | [鎼滅储浜岀淮鐭╅樀](https://leetcode.cn/problems/search-a-2d-matrix/) | 涓瓑 | 鏁扮粍銆佺煩闃点€佷簩鍒嗘煡鎵?| [Java](src/array/_74_SearchA2DMatrix.java) | 2026-05-09 |
-| 77 | [缁勫悎](https://leetcode.cn/problems/combinations/) | 涓瓑 | 鍥炴函銆丏FS銆佸壀鏋?| [Java](src/backtracking/_77_Combinations.java) | 2026-04-01 |
-| 79 | [鍗曡瘝鎼滅储](https://leetcode.cn/problems/word-search/) | 涓瓑 | 鍥炴函銆丏FS銆佺煩闃?| [Java](src/backtracking/_79_WordSearch.java) | 2026-04-09 |
-| 98 | [楠岃瘉浜屽弶鎼滅储鏍慮(https://leetcode.cn/problems/validate-binary-search-tree/) | 涓瓑 | 鏍戙€丅ST銆佷腑搴忛亶鍘嗐€佹爤 | [Java](src/tree/_98_ValidateBinarySearchTree.java) | 2026-03-17 |
-| 102 | [浜屽弶鏍戠殑灞傚簭閬嶅巻](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | 涓瓑 | 鏍戙€丅FS | [Java](src/tree/_102_BinaryTreeLevelOrderTraversal.java) | 2026-03-16 |
-| 103 | [浜屽弶鏍戠殑閿娇褰㈠眰搴忛亶鍘哴(https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/) | 涓瓑 | 鏍戙€丅FS | [Java](src/tree/_103_BinaryTreeZigzagLevelOrderTraversal.java) | 2026-03-17 |
-| 105 | [浠庡墠搴忎笌涓簭閬嶅巻搴忓垪鏋勯€犱簩鍙夋爲](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 涓瓑 | 鏍戙€佸搱甯岃〃銆侀€掑綊 | [Java](src/tree/_105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | 2026-03-05 |
-| 106 | [浠庝腑搴忎笌鍚庡簭閬嶅巻搴忓垪鏋勯€犱簩鍙夋爲](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 涓瓑 | 鏍戙€佸搱甯岃〃銆侀€掑綊 | [Java](src/tree/_106_ConstructBinaryTreeFromInorderAndPostorderTraversal.java) | 2026-03-05 |
-| 108 | [灏嗘湁搴忔暟缁勮浆鎹负浜屽弶鎼滅储鏍慮(https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/) | 绠€鍗?| 鏍戙€丅ST銆侀€掑綊銆佸垎娌?| [Java](src/tree/_108_ConvertSortedArrayToBinarySearchTree.java) | 2026-04-28 |
-| 112 | [璺緞鎬诲拰](https://leetcode.cn/problems/path-sum/) | 绠€鍗?| 鏍戙€丏FS銆侀€掑綊 | [Java](src/tree/_112_PathSum.java) | 2026-03-10 |
-| 114 | [浜屽弶鏍戝睍寮€涓洪摼琛╙(https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | 涓瓑 | 鏍戙€侀€掑綊銆侀摼琛?| [Java](src/tree/_114_FlattenBinaryTreeToLinkedList.java) | 2026-03-10 |
-| 117 | [濉厖姣忎釜鑺傜偣鐨勪笅涓€涓彸渚ц妭鐐规寚閽?II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/) | 涓瓑 | 鏍戙€丅FS | [Java](src/tree/_117_PopulatingNextRightPointersInEachNodeII.java) | 2026-03-05 |
-| 124 | [浜屽弶鏍戜腑鐨勬渶澶ц矾寰勫拰](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | 鍥伴毦 | 鏍戙€丏FS銆侀€掑綊 | [Java](src/tree/_124_BinaryTreeMaximumPathSum.java) | 2026-03-11 |
-| 127 | [鍗曡瘝鎺ラ緳](https://leetcode.cn/problems/word-ladder/) | 涓瓑 | 鍥俱€丅FS | [Java](src/graph/_127_WordLadder.java) | 2026-03-20 |
-| 129 | [姹傛牴鑺傜偣鍒板彾鑺傜偣鏁板瓧涔嬪拰](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | 涓瓑 | 鏍戙€丏FS銆侀€掑綊 | [Java](src/tree/_129_SumRootToLeafNumbers.java) | 2026-03-10 |
-| 130 | [琚洿缁曠殑鍖哄煙](https://leetcode.cn/problems/surrounded-regions/) | 涓瓑 | 鍥俱€丏FS銆佺綉鏍?| [Java](src/graph/_130_SurroundedRegions.java) | 2026-03-18 |
-| 133 | [鍏嬮殕鍥綸(https://leetcode.cn/problems/clone-graph/) | 涓瓑 | 鍥俱€丏FS銆佸搱甯岃〃 | [Java](src/graph/_133_CloneGraph.java) | 2026-03-18 |
-| 144 | [浜屽弶鏍戠殑鍓嶅簭閬嶅巻](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | 绠€鍗?| 鏍戙€侀€掑綊銆丏FS | [Java](src/tree/_144_BinaryTreePreorderTraversal.java) | 2026-03-10 |
-| 148 | [鎺掑簭閾捐〃](https://leetcode.cn/problems/sort-list/) | 涓瓑 | 閾捐〃銆佸綊骞舵帓搴忋€佸揩鎱㈡寚閽?| [Java](src/linkedlist/_148_SortList.java) | 2026-04-28 |
-| 162 | [瀵绘壘宄板€糫(https://leetcode.cn/problems/find-peak-element/) | 绠€鍗?| 浜屽垎鎼滅储 | [Java](src/binarysearch/_162_FindPeakElement.java) | 2026-06-08 |
-| 173 | [浜屽弶鎼滅储鏍戣凯浠ｅ櫒](https://leetcode.cn/problems/binary-search-tree-iterator/) | 涓瓑 | 鏍戙€佹爤銆佽凯浠ｅ櫒銆丅ST | [Java](src/tree/_173_BinarySearchTreeIterator.java) | 2026-03-11 |
-| 190 | [颠倒二进制位](https://leetcode.cn/problems/reverse-bits/) | 简单 | 位运算 | [Java](src/string/_190_ReverseBits.java) | 2026-06-09 |
-| 199 | [浜屽弶鏍戠殑鍙宠鍥綸(https://leetcode.cn/problems/binary-tree-right-side-view/) | 涓瓑 | 鏍戙€丅FS | [Java](src/tree/_199_BinaryTreeRightSideView.java) | 2026-03-16 |
-| 200 | [宀涘笨鏁伴噺](https://leetcode.cn/problems/number-of-islands/) | 涓瓑 | 鍥俱€丏FS銆佺綉鏍?| [Java](src/graph/_200_NumberOfIslands.java) | 2026-03-17 |
-| 207 | [璇剧▼琛╙(https://leetcode.cn/problems/course-schedule/) | 涓瓑 | 鍥俱€丏FS銆佹嫇鎵戞帓搴忋€佺幆妫€娴?| [Java](src/graph/_207_CourseSchedule.java) | 2026-03-18 |
-| 208 | [瀹炵幇 Trie锛堝墠缂€鏍戯級](https://leetcode.cn/problems/implement-trie-prefix-tree/) | 涓瓑 | 鍓嶇紑鏍戙€佽璁?| [Java](src/tree/_208_ImplementTrie.java) | 2026-03-24 |
-| 211 | [娣诲姞涓庢悳绱㈠崟璇峕(https://leetcode.cn/problems/design-add-and-search-words-data-structure/) | 涓瓑 | 鍓嶇紑鏍戙€丏FS銆佽璁?| [Java](src/tree/_211_WordDictionary.java) | 2026-03-24 |
-| 212 | [鍗曡瘝鎼滅储 II](https://leetcode.cn/problems/word-search-ii/) | 鍥伴毦 | 鍓嶇紑鏍戙€丏FS銆佸洖婧?| [Java](src/tree/_212_WordSearchII.java) | 2026-03-25 |
-| 215 | [鏁扮粍涓殑绗琄涓渶澶у厓绱燷(https://leetcode.cn/problems/kth-largest-element-in-an-array/) | 涓瓑 | 鍫嗐€佸揩閫熼€夋嫨锛圦uick Select锛?| [Java](src/binarysearch/_215_KthLargestElementInAnArray.java) | 2026-06-08 |
-| 222 | [瀹屽叏浜屽弶鏍戠殑鑺傜偣涓暟](https://leetcode.cn/problems/count-complete-tree-nodes/) | 涓瓑 | 鏍戙€佸畬鍏ㄤ簩鍙夋爲銆佷簩鍒?| [Java](src/tree/_222_CountCompleteTreeNodes.java) | 2026-03-11 |
-| 230 | [浜屽弶鎼滅储鏍戜腑绗?K 灏忕殑鍏冪礌](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | 涓瓑 | 鏍戙€丅ST銆佷腑搴忛亶鍘嗐€丏FS | [Java](src/tree/_230_KthSmallestElementInABst.java) | 2026-03-17 |
-| 236 | [浜屽弶鏍戠殑鏈€杩戝叕鍏辩鍏圿(https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | 涓瓑 | 鏍戙€丏FS銆侀€掑綊 | [Java](src/tree/_236_LowestCommonAncestorOfBinaryTree.java) | 2026-03-16 |
-| 373 | [鏌ユ壘鍜屾渶灏忕殑 K 瀵规暟瀛梋(https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/) | 涓瓑 | 鍫?| [Java](src/heap/_373_FindKPairsWithSmallestSums.java) | 2026-06-09 |
-| 295 | [鏁版嵁娴佺殑涓綅鏁癩(https://leetcode.cn/problems/find-median-from-data-stream/) | 鍥伴毦 | 鍫?| [Java](src/heap/_295_FindMedianFromDataStream.java) | 2026-06-09 |
-| 433 | [鏈€灏忓熀鍥犲彉鍖朷(https://leetcode.cn/problems/minimum-genetic-mutation/) | 涓瓑 | 鍥俱€丅FS | [Java](src/graph/_433_MinimumGeneticMutation.java) | 2026-03-20 |
-| 502 | [IPO](https://leetcode.cn/problems/ipo/) | 鍥伴毦 | 鍫嗐€佽椽蹇?| [Java](src/heap/_502_IPO.java) | 2026-06-09 |
-| 530 | [浜屽弶鎼滅储鏍戠殑鏈€灏忕粷瀵瑰樊](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/) | 绠€鍗?| 鏍戙€丅ST銆佷腑搴忛亶鍘嗐€丏FS | [Java](src/tree/_530_MinimumAbsoluteDifferenceInBst.java) | 2026-03-17 |
-| 637 | [浜屽弶鏍戠殑灞傚钩鍧囧€糫(https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | 绠€鍗?| 鏍戙€丅FS | [Java](src/tree/_637_AverageOfLevelsInBinaryTree.java) | 2026-03-16 |
-| 918 | [鐜舰瀛愭暟缁勭殑鏈€澶у拰](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | 涓瓑 | 鍔ㄦ€佽鍒掋€佸墠缂€鍜?| [Java](src/array/_918_MaximumSumCircularSubarray.java) | 2026-05-07 |
+| 4 | [娑撱倓閲滃锝呯碍閺佹壆绮嶉惃鍕厬娴ｅ秵鏆焆(https://leetcode.cn/problems/median-of-two-sorted-arrays/) | 閸ヤ即姣?| 娴滃苯鍨庨弻銉﹀ | [Java](src/binarysearch/_4_MedianOfTwoSortedArrays.java) | 2026-06-08 |
+| 17 | [閻絻鐦介崣椋庣垳閻ㄥ嫬鐡уВ宥囩矋閸氬溈(https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | 娑擃厾鐡?| 閸ョ偞鍑介妴浣告惐鐢矁銆?| [Java](src/backtracking/_17_LetterCombinationsOfAPhoneNumber.java) | 2026-03-25 |
+| 22 | [閹奉剙褰块悽鐔稿灇](https://leetcode.cn/problems/generate-parentheses/) | 娑擃厾鐡?| 閸ョ偞鍑介妴浣哥摟缁楋缚瑕?| [Java](src/backtracking/_22_GenerateParentheses.java) | 2026-04-08 |
+| 33 | [閹兼粎鍌ㄩ弮瀣祮閹烘帒绨弫鎵矋](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | 娑擃厾鐡?| 娴滃苯鍨庨弻銉﹀ | [Java](src/binarysearch/_33_SearchInRotatedSortedArray.java) | 2026-06-08 |
+| 34 | [閸︺劍甯撴惔蹇旀殶缂佸嫪鑵戦弻銉﹀閸忓啰绀岄惃鍕儑娑撯偓娑擃亜鎷伴張鈧崥搴濈娑擃亙缍呯純鐢?https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | 娑擃厾鐡?| 娴滃苯鍨庨弻銉﹀ | [Java](src/binarysearch/_34_FindFirstAndLastPositionOfElementInSortedArray.java) | 2026-06-08 |
+| 35 | [閹兼粎鍌ㄩ幓鎺戝弳娴ｅ秶鐤哴(https://leetcode.cn/problems/search-insert-position/) | 缁犫偓閸?| 閺佹壆绮嶉妴浣风癌閸掑棙鐓￠幍?| [Java](src/array/_35_SearchInsertPosition.java) | 2026-05-09 |
+| 39 | [缂佸嫬鎮庨幀璇叉嫲](https://leetcode.cn/problems/combination-sum/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S | [Java](src/backtracking/_39_CombinationSum.java) | 2026-04-02 |
+| 46 | [閸忋劍甯撻崚姊?https://leetcode.cn/problems/permutations/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S | [Java](src/backtracking/_46_Permutations.java) | 2026-04-01 |
+| 52 | [N 閻ㄥ洤鎮?II](https://leetcode.cn/problems/n-queens-ii/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕椒缍呮潻鎰暬 | [Java](src/backtracking/_52_NQueensII.java) | 2026-04-07 |
+| 53 | [閺堚偓婢堆冪摍閺佹壆绮嶉崪瀹?https://leetcode.cn/problems/maximum-subarray/) | 娑擃厾鐡?| 閸斻劍鈧浇顫夐崚鎺嬧偓浣稿瀻濞?| [Java](src/array/_53_MaximumSubarray.java) | 2026-05-07 |
+| 67 | [娴滃矁绻橀崚鑸电湴閸滃畟(https://leetcode.cn/problems/add-binary/) | 缁犫偓閸?| 鐎涙顑佹稉?| [Java](src/string/_67_AddBinary.java) | 2026-06-09 |
+| 74 | [閹兼粎鍌ㄦ禍宀€娣惌鈺呮█](https://leetcode.cn/problems/search-a-2d-matrix/) | 娑擃厾鐡?| 閺佹壆绮嶉妴浣虹叐闂冪偣鈧椒绨╅崚鍡樼叀閹?| [Java](src/array/_74_SearchA2DMatrix.java) | 2026-05-09 |
+| 77 | [缂佸嫬鎮嶿(https://leetcode.cn/problems/combinations/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕礁澹€閺?| [Java](src/backtracking/_77_Combinations.java) | 2026-04-01 |
+| 79 | [閸楁洝鐦濋幖婊呭偍](https://leetcode.cn/problems/word-search/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕胶鐓╅梼?| [Java](src/backtracking/_79_WordSearch.java) | 2026-04-09 |
+| 98 | [妤犲矁鐦夋禍灞藉级閹兼粎鍌ㄩ弽鎱?https://leetcode.cn/problems/validate-binary-search-tree/) | 娑擃厾鐡?| 閺嶆垯鈧竻ST閵嗕椒鑵戞惔蹇涗憾閸樺棎鈧焦鐖?| [Java](src/tree/_98_ValidateBinarySearchTree.java) | 2026-03-17 |
+| 102 | [娴滃苯寮堕弽鎴犳畱鐏炲倸绨柆宥呭坊](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | 娑擃厾鐡?| 閺嶆垯鈧竻FS | [Java](src/tree/_102_BinaryTreeLevelOrderTraversal.java) | 2026-03-16 |
+| 103 | [娴滃苯寮堕弽鎴犳畱闁款垶濞囪ぐ銏犵湴鎼村繘浜堕崢鍝?https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/) | 娑擃厾鐡?| 閺嶆垯鈧竻FS | [Java](src/tree/_103_BinaryTreeZigzagLevelOrderTraversal.java) | 2026-03-17 |
+| 105 | [娴犲骸澧犳惔蹇庣瑢娑擃厼绨柆宥呭坊鎼村繐鍨弸鍕偓鐘辩癌閸欏鐖瞉(https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 娑擃厾鐡?| 閺嶆垯鈧礁鎼辩敮宀冦€冮妴渚€鈧帒缍?| [Java](src/tree/_105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | 2026-03-05 |
+| 106 | [娴犲簼鑵戞惔蹇庣瑢閸氬骸绨柆宥呭坊鎼村繐鍨弸鍕偓鐘辩癌閸欏鐖瞉(https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 娑擃厾鐡?| 閺嶆垯鈧礁鎼辩敮宀冦€冮妴渚€鈧帒缍?| [Java](src/tree/_106_ConstructBinaryTreeFromInorderAndPostorderTraversal.java) | 2026-03-05 |
+| 108 | [鐏忓棙婀佹惔蹇旀殶缂佸嫯娴嗛幑顫礋娴滃苯寮堕幖婊呭偍閺嶆叜(https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/) | 缁犫偓閸?| 閺嶆垯鈧竻ST閵嗕線鈧帒缍婇妴浣稿瀻濞?| [Java](src/tree/_108_ConvertSortedArrayToBinarySearchTree.java) | 2026-04-28 |
+| 112 | [鐠侯垰绶為幀璇叉嫲](https://leetcode.cn/problems/path-sum/) | 缁犫偓閸?| 閺嶆垯鈧笍FS閵嗕線鈧帒缍?| [Java](src/tree/_112_PathSum.java) | 2026-03-10 |
+| 114 | [娴滃苯寮堕弽鎴濈潔瀵偓娑撴椽鎽肩悰鈺?https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | 娑擃厾鐡?| 閺嶆垯鈧線鈧帒缍婇妴渚€鎽肩悰?| [Java](src/tree/_114_FlattenBinaryTreeToLinkedList.java) | 2026-03-10 |
+| 117 | [婵夘偄鍘栧В蹇庨嚋閼哄倻鍋ｉ惃鍕瑓娑撯偓娑擃亜褰告笟褑濡悙瑙勫瘹闁?II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/) | 娑擃厾鐡?| 閺嶆垯鈧竻FS | [Java](src/tree/_117_PopulatingNextRightPointersInEachNodeII.java) | 2026-03-05 |
+| 124 | [娴滃苯寮堕弽鎴滆厬閻ㄥ嫭娓舵径褑鐭惧鍕嫲](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | 閸ヤ即姣?| 閺嶆垯鈧笍FS閵嗕線鈧帒缍?| [Java](src/tree/_124_BinaryTreeMaximumPathSum.java) | 2026-03-11 |
+| 127 | [閸楁洝鐦濋幒銉╃烦](https://leetcode.cn/problems/word-ladder/) | 娑擃厾鐡?| 閸ヤ勘鈧竻FS | [Java](src/graph/_127_WordLadder.java) | 2026-03-20 |
+| 129 | [濮瑰倹鐗撮懞鍌滃仯閸掓澘褰鹃懞鍌滃仯閺佹澘鐡ф稊瀣嫲](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | 娑擃厾鐡?| 閺嶆垯鈧笍FS閵嗕線鈧帒缍?| [Java](src/tree/_129_SumRootToLeafNumbers.java) | 2026-03-10 |
+| 130 | [鐞氼偄娲跨紒鏇犳畱閸栧搫鐓橾(https://leetcode.cn/problems/surrounded-regions/) | 娑擃厾鐡?| 閸ヤ勘鈧笍FS閵嗕胶缍夐弽?| [Java](src/graph/_130_SurroundedRegions.java) | 2026-03-18 |
+| 133 | [閸忓娈曢崶缍?https://leetcode.cn/problems/clone-graph/) | 娑擃厾鐡?| 閸ヤ勘鈧笍FS閵嗕礁鎼辩敮宀冦€?| [Java](src/graph/_133_CloneGraph.java) | 2026-03-18 |
+| 136 | [鍙嚭鐜颁竴娆＄殑鏁板瓧](https://leetcode.cn/problems/single-number/) | 绠€鍗?| 浣嶈繍绠?| [Java](src/math/_136_SingleNumber.java) | 2026-06-10 |
+| 144 | [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | 简单 | 树、递归、DFS | [Java](src/tree/_144_BinaryTreePreorderTraversal.java) | 2026-03-10 |
+| 148 | [閹烘帒绨柧鎹愩€僝(https://leetcode.cn/problems/sort-list/) | 娑擃厾鐡?| 闁炬崘銆冮妴浣哥秺楠炶埖甯撴惔蹇嬧偓浣告彥閹便垺瀵氶柦?| [Java](src/linkedlist/_148_SortList.java) | 2026-04-28 |
+| 162 | [鐎电粯澹樺畡鏉库偓绯?https://leetcode.cn/problems/find-peak-element/) | 缁犫偓閸?| 娴滃苯鍨庨幖婊呭偍 | [Java](src/binarysearch/_162_FindPeakElement.java) | 2026-06-08 |
+| 173 | [娴滃苯寮堕幖婊呭偍閺嶆垼鍑禒锝呮珤](https://leetcode.cn/problems/binary-search-tree-iterator/) | 娑擃厾鐡?| 閺嶆垯鈧焦鐖ら妴浣藉嚡娴狅絽娅掗妴涓匰T | [Java](src/tree/_173_BinarySearchTreeIterator.java) | 2026-03-11 |
+| 190 | [棰犲€掍簩杩涘埗浣峕(https://leetcode.cn/problems/reverse-bits/) | 绠€鍗?| 浣嶈繍绠?| [Java](src/string/_190_ReverseBits.java) | 2026-06-09 |
+| 191 | [浣?鐨勪釜鏁癩(https://leetcode.cn/problems/number-of-1-bits/) | 绠€鍗?| 浣嶈繍绠?| [Java](src/math/_191_NumberOf1Bits.java) | 2026-06-10 |
+| 199 | [二叉树的右侧视图](https://leetcode.cn/problems/binary-tree-right-side-view/) | 中等 | 树、BFS | [Java](src/tree/_199_BinaryTreeRightSideView.java) | 2026-03-16 |
+| 200 | [瀹€娑樼閺佷即鍣篯(https://leetcode.cn/problems/number-of-islands/) | 娑擃厾鐡?| 閸ヤ勘鈧笍FS閵嗕胶缍夐弽?| [Java](src/graph/_200_NumberOfIslands.java) | 2026-03-17 |
+| 207 | [鐠囧墽鈻肩悰鈺?https://leetcode.cn/problems/course-schedule/) | 娑擃厾鐡?| 閸ヤ勘鈧笍FS閵嗕焦瀚囬幍鎴炲笓鎼村繈鈧胶骞嗗Λ鈧ù?| [Java](src/graph/_207_CourseSchedule.java) | 2026-03-18 |
+| 208 | [鐎圭偟骞?Trie閿涘牆澧犵紓鈧弽鎴礆](https://leetcode.cn/problems/implement-trie-prefix-tree/) | 娑擃厾鐡?| 閸撳秶绱戦弽鎴欌偓浣筋啎鐠?| [Java](src/tree/_208_ImplementTrie.java) | 2026-03-24 |
+| 211 | [濞ｈ濮炴稉搴㈡偝缁便垹宕熺拠宄?https://leetcode.cn/problems/design-add-and-search-words-data-structure/) | 娑擃厾鐡?| 閸撳秶绱戦弽鎴欌偓涓廎S閵嗕浇顔曠拋?| [Java](src/tree/_211_WordDictionary.java) | 2026-03-24 |
+| 212 | [閸楁洝鐦濋幖婊呭偍 II](https://leetcode.cn/problems/word-search-ii/) | 閸ヤ即姣?| 閸撳秶绱戦弽鎴欌偓涓廎S閵嗕礁娲栧┃?| [Java](src/tree/_212_WordSearchII.java) | 2026-03-25 |
+| 215 | [閺佹壆绮嶆稉顓犳畱缁楃悇娑擃亝娓舵径褍鍘撶槐鐕?https://leetcode.cn/problems/kth-largest-element-in-an-array/) | 娑擃厾鐡?| 閸棎鈧礁鎻╅柅鐔尖偓澶嬪閿涘湨uick Select閿?| [Java](src/binarysearch/_215_KthLargestElementInAnArray.java) | 2026-06-08 |
+| 222 | [鐎瑰苯鍙忔禍灞藉级閺嶆垹娈戦懞鍌滃仯娑擃亝鏆焆(https://leetcode.cn/problems/count-complete-tree-nodes/) | 娑擃厾鐡?| 閺嶆垯鈧礁鐣崗銊ょ癌閸欏鐖查妴浣风癌閸?| [Java](src/tree/_222_CountCompleteTreeNodes.java) | 2026-03-11 |
+| 230 | [娴滃苯寮堕幖婊呭偍閺嶆垳鑵戠粭?K 鐏忓繒娈戦崗鍐](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/) | 娑擃厾鐡?| 閺嶆垯鈧竻ST閵嗕椒鑵戞惔蹇涗憾閸樺棎鈧笍FS | [Java](src/tree/_230_KthSmallestElementInABst.java) | 2026-03-17 |
+| 236 | [娴滃苯寮堕弽鎴犳畱閺堚偓鏉╂垵鍙曢崗杈╊殯閸忓溈(https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | 娑擃厾鐡?| 閺嶆垯鈧笍FS閵嗕線鈧帒缍?| [Java](src/tree/_236_LowestCommonAncestorOfBinaryTree.java) | 2026-03-16 |
+| 373 | [閺屻儲澹橀崪灞炬付鐏忓繒娈?K 鐎佃鏆熺€涙(https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/) | 娑擃厾鐡?| 閸?| [Java](src/heap/_373_FindKPairsWithSmallestSums.java) | 2026-06-09 |
+| 295 | [閺佺増宓佸ù浣烘畱娑擃厺缍呴弫鐧?https://leetcode.cn/problems/find-median-from-data-stream/) | 閸ヤ即姣?| 閸?| [Java](src/heap/_295_FindMedianFromDataStream.java) | 2026-06-09 |
+| 433 | [閺堚偓鐏忓繐鐔€閸ョ姴褰夐崠鏈?https://leetcode.cn/problems/minimum-genetic-mutation/) | 娑擃厾鐡?| 閸ヤ勘鈧竻FS | [Java](src/graph/_433_MinimumGeneticMutation.java) | 2026-03-20 |
+| 502 | [IPO](https://leetcode.cn/problems/ipo/) | 閸ヤ即姣?| 閸棎鈧浇妞借箛?| [Java](src/heap/_502_IPO.java) | 2026-06-09 |
+| 530 | [娴滃苯寮堕幖婊呭偍閺嶆垹娈戦張鈧亸蹇曠卜鐎电懓妯奭(https://leetcode.cn/problems/minimum-absolute-difference-in-bst/) | 缁犫偓閸?| 閺嶆垯鈧竻ST閵嗕椒鑵戞惔蹇涗憾閸樺棎鈧笍FS | [Java](src/tree/_530_MinimumAbsoluteDifferenceInBst.java) | 2026-03-17 |
+| 637 | [娴滃苯寮堕弽鎴犳畱鐏炲倸閽╅崸鍥р偓绯?https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | 缁犫偓閸?| 閺嶆垯鈧竻FS | [Java](src/tree/_637_AverageOfLevelsInBinaryTree.java) | 2026-03-16 |
+| 918 | [閻滎垰鑸扮€涙劖鏆熺紒鍕畱閺堚偓婢堆冩嫲](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | 娑擃厾鐡?| 閸斻劍鈧浇顫夐崚鎺嬧偓浣稿缂傗偓閸?| [Java](src/array/_918_MaximumSumCircularSubarray.java) | 2026-05-07 |
 
 
