@@ -53,6 +53,7 @@
 | 46 | [閸忋劍甯撻崚姊?https://leetcode.cn/problems/permutations/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S | [Java](src/backtracking/_46_Permutations.java) | 2026-04-01 |
 | 52 | [N 閻ㄥ洤鎮?II](https://leetcode.cn/problems/n-queens-ii/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕椒缍呮潻鎰暬 | [Java](src/backtracking/_52_NQueensII.java) | 2026-04-07 |
 | 53 | [閺堚偓婢堆冪摍閺佹壆绮嶉崪瀹?https://leetcode.cn/problems/maximum-subarray/) | 娑擃厾鐡?| 閸斻劍鈧浇顫夐崚鎺嬧偓浣稿瀻濞?| [Java](src/array/_53_MaximumSubarray.java) | 2026-05-07 |
+| 66 | [加一](https://leetcode.cn/problems/plus-one/) | 简单 | 数组 | [Java](src/math/_66_PlusOne.java) | 2026-06-11 |
 | 67 | [娴滃矁绻橀崚鑸电湴閸滃畟(https://leetcode.cn/problems/add-binary/) | 缁犫偓閸?| 鐎涙顑佹稉?| [Java](src/string/_67_AddBinary.java) | 2026-06-09 |
 | 74 | [閹兼粎鍌ㄦ禍宀€娣惌鈺呮█](https://leetcode.cn/problems/search-a-2d-matrix/) | 娑擃厾鐡?| 閺佹壆绮嶉妴浣虹叐闂冪偣鈧椒绨╅崚鍡樼叀閹?| [Java](src/array/_74_SearchA2DMatrix.java) | 2026-05-09 |
 | 77 | [缂佸嫬鎮嶿(https://leetcode.cn/problems/combinations/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕礁澹€閺?| [Java](src/backtracking/_77_Combinations.java) | 2026-04-01 |
