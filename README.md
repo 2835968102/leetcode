@@ -77,6 +77,7 @@
 | 144 | [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | 简单 | 树、递归、DFS | [Java](src/tree/_144_BinaryTreePreorderTraversal.java) | 2026-03-10 |
 | 148 | [閹烘帒绨柧鎹愩€僝(https://leetcode.cn/problems/sort-list/) | 娑擃厾鐡?| 闁炬崘銆冮妴浣哥秺楠炶埖甯撴惔蹇嬧偓浣告彥閹便垺瀵氶柦?| [Java](src/linkedlist/_148_SortList.java) | 2026-04-28 |
 | 162 | [鐎电粯澹樺畡鏉库偓绯?https://leetcode.cn/problems/find-peak-element/) | 缁犫偓閸?| 娴滃苯鍨庨幖婊呭偍 | [Java](src/binarysearch/_162_FindPeakElement.java) | 2026-06-08 |
+| 172 | [阶乘后的零](https://leetcode.cn/problems/factorial-trailing-zeroes/) | 中等 | 数学 | [Java](src/math/_172_FactorialTrailingZeroes.java) | 2026-06-11 |
 | 173 | [娴滃苯寮堕幖婊呭偍閺嶆垼鍑禒锝呮珤](https://leetcode.cn/problems/binary-search-tree-iterator/) | 娑擃厾鐡?| 閺嶆垯鈧焦鐖ら妴浣藉嚡娴狅絽娅掗妴涓匰T | [Java](src/tree/_173_BinarySearchTreeIterator.java) | 2026-03-11 |
 | 190 | [棰犲€掍簩杩涘埗浣峕(https://leetcode.cn/problems/reverse-bits/) | 绠€鍗?| 浣嶈繍绠?| [Java](src/string/_190_ReverseBits.java) | 2026-06-09 |
 | 191 | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/) | 简单 | 位运算 | [Java](src/math/_191_NumberOf1Bits.java) | 2026-06-10 |
