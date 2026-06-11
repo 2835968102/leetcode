@@ -55,6 +55,7 @@
 | 53 | [閺堚偓婢堆冪摍閺佹壆绮嶉崪瀹?https://leetcode.cn/problems/maximum-subarray/) | 娑擃厾鐡?| 閸斻劍鈧浇顫夐崚鎺嬧偓浣稿瀻濞?| [Java](src/array/_53_MaximumSubarray.java) | 2026-05-07 |
 | 66 | [加一](https://leetcode.cn/problems/plus-one/) | 简单 | 数组 | [Java](src/math/_66_PlusOne.java) | 2026-06-11 |
 | 67 | [娴滃矁绻橀崚鑸电湴閸滃畟(https://leetcode.cn/problems/add-binary/) | 缁犫偓閸?| 鐎涙顑佹稉?| [Java](src/string/_67_AddBinary.java) | 2026-06-09 |
+| 69 | [x 的平方根](https://leetcode.cn/problems/sqrtx/) | 简单 | 二分法 | [Java](src/math/_69_SqrtX.java) | 2026-06-11 |
 | 74 | [閹兼粎鍌ㄦ禍宀€娣惌鈺呮█](https://leetcode.cn/problems/search-a-2d-matrix/) | 娑擃厾鐡?| 閺佹壆绮嶉妴浣虹叐闂冪偣鈧椒绨╅崚鍡樼叀閹?| [Java](src/array/_74_SearchA2DMatrix.java) | 2026-05-09 |
 | 77 | [缂佸嫬鎮嶿(https://leetcode.cn/problems/combinations/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕礁澹€閺?| [Java](src/backtracking/_77_Combinations.java) | 2026-04-01 |
 | 79 | [閸楁洝鐦濋幖婊呭偍](https://leetcode.cn/problems/word-search/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕胶鐓╅梼?| [Java](src/backtracking/_79_WordSearch.java) | 2026-04-09 |
@@ -99,4 +100,3 @@
 | 530 | [娴滃苯寮堕幖婊呭偍閺嶆垹娈戦張鈧亸蹇曠卜鐎电懓妯奭(https://leetcode.cn/problems/minimum-absolute-difference-in-bst/) | 缁犫偓閸?| 閺嶆垯鈧竻ST閵嗕椒鑵戞惔蹇涗憾閸樺棎鈧笍FS | [Java](src/tree/_530_MinimumAbsoluteDifferenceInBst.java) | 2026-03-17 |
 | 637 | [娴滃苯寮堕弽鎴犳畱鐏炲倸閽╅崸鍥р偓绯?https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | 缁犫偓閸?| 閺嶆垯鈧竻FS | [Java](src/tree/_637_AverageOfLevelsInBinaryTree.java) | 2026-03-16 |
 | 918 | [閻滎垰鑸扮€涙劖鏆熺紒鍕畱閺堚偓婢堆冩嫲](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | 娑擃厾鐡?| 閸斻劍鈧浇顫夐崚鎺嬧偓浣稿缂傗偓閸?| [Java](src/array/_918_MaximumSumCircularSubarray.java) | 2026-05-07 |
-
