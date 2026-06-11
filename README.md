@@ -43,6 +43,7 @@
 | 妫版ê褰?| 妫版娲?| 闂呮儳瀹?| 閺嶅洨顒?| 妫版袙 | 鐎瑰本鍨氶弮銉︽埂 |
 |------|------|------|------|------|----------|
 | 4 | [娑撱倓閲滃锝呯碍閺佹壆绮嶉惃鍕厬娴ｅ秵鏆焆(https://leetcode.cn/problems/median-of-two-sorted-arrays/) | 閸ヤ即姣?| 娴滃苯鍨庨弻銉﹀ | [Java](src/binarysearch/_4_MedianOfTwoSortedArrays.java) | 2026-06-08 |
+| 9 | [回文数](https://leetcode.cn/problems/palindrome-number/) | 简单 | 字符串 | [Java](src/math/_9_PalindromeNumber.java) | 2026-06-11 |
 | 17 | [閻絻鐦介崣椋庣垳閻ㄥ嫬鐡уВ宥囩矋閸氬溈(https://leetcode.cn/problems/letter-combinations-of-a-phone-number/) | 娑擃厾鐡?| 閸ョ偞鍑介妴浣告惐鐢矁銆?| [Java](src/backtracking/_17_LetterCombinationsOfAPhoneNumber.java) | 2026-03-25 |
 | 22 | [閹奉剙褰块悽鐔稿灇](https://leetcode.cn/problems/generate-parentheses/) | 娑擃厾鐡?| 閸ョ偞鍑介妴浣哥摟缁楋缚瑕?| [Java](src/backtracking/_22_GenerateParentheses.java) | 2026-04-08 |
 | 33 | [閹兼粎鍌ㄩ弮瀣祮閹烘帒绨弫鎵矋](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | 娑擃厾鐡?| 娴滃苯鍨庨弻銉﹀ | [Java](src/binarysearch/_33_SearchInRotatedSortedArray.java) | 2026-06-08 |
@@ -80,6 +81,7 @@
 | 191 | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/) | 简单 | 位运算 | [Java](src/math/_191_NumberOf1Bits.java) | 2026-06-10 |
 | 199 | [二叉树的右侧视图](https://leetcode.cn/problems/binary-tree-right-side-view/) | 中等 | 树、BFS | [Java](src/tree/_199_BinaryTreeRightSideView.java) | 2026-03-16 |
 | 200 | [瀹€娑樼閺佷即鍣篯(https://leetcode.cn/problems/number-of-islands/) | 娑擃厾鐡?| 閸ヤ勘鈧笍FS閵嗕胶缍夐弽?| [Java](src/graph/_200_NumberOfIslands.java) | 2026-03-17 |
+| 201 | [数字范围按位与](https://leetcode.cn/problems/bitwise-and-of-numbers-range/) | 简单 | 位运算 | [Java](src/binarysearch/_201_BitwiseAndOfNumbersRange.java) | 2026-06-11 |
 | 207 | [鐠囧墽鈻肩悰鈺?https://leetcode.cn/problems/course-schedule/) | 娑擃厾鐡?| 閸ヤ勘鈧笍FS閵嗕焦瀚囬幍鎴炲笓鎼村繈鈧胶骞嗗Λ鈧ù?| [Java](src/graph/_207_CourseSchedule.java) | 2026-03-18 |
 | 208 | [鐎圭偟骞?Trie閿涘牆澧犵紓鈧弽鎴礆](https://leetcode.cn/problems/implement-trie-prefix-tree/) | 娑擃厾鐡?| 閸撳秶绱戦弽鎴欌偓浣筋啎鐠?| [Java](src/tree/_208_ImplementTrie.java) | 2026-03-24 |
 | 211 | [濞ｈ濮炴稉搴㈡偝缁便垹宕熺拠宄?https://leetcode.cn/problems/design-add-and-search-words-data-structure/) | 娑擃厾鐡?| 閸撳秶绱戦弽鎴欌偓涓廎S閵嗕浇顔曠拋?| [Java](src/tree/_211_WordDictionary.java) | 2026-03-24 |
