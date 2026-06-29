@@ -38,7 +38,7 @@
 
 ## 閸掔兘顣芥潻娑樺
 
-- 简单 Easy：0 题 - 中等 Medium：11 题 - 困难 Hard：5 题
+- 简单 Easy：0 题 - 中等 Medium：12 题 - 困难 Hard：5 题
 
 | 妫版ê褰?| 妫版娲?| 闂呮儳瀹?| 閺嶅洨顒?| 妫版袙 | 鐎瑰本鍨氶弮銉︽埂 |
 |------|------|------|------|------|----------|
@@ -99,6 +99,7 @@
 | 236 | [娴滃苯寮堕弽鎴犳畱閺堚偓鏉╂垵鍙曢崗杈╊殯閸忓溈(https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) | 娑擃厾鐡?| 閺嶆垯鈧笍FS閵嗕線鈧帒缍?| [Java](src/tree/_236_LowestCommonAncestorOfBinaryTree.java) | 2026-03-16 |
 | 373 | [閺屻儲澹橀崪灞炬付鐏忓繒娈?K 鐎佃鏆熺€涙(https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/) | 娑擃厾鐡?| 閸?| [Java](src/heap/_373_FindKPairsWithSmallestSums.java) | 2026-06-09 |
 | 295 | [閺佺増宓佸ù浣烘畱娑擃厺缍呴弫鐧?https://leetcode.cn/problems/find-median-from-data-stream/) | 閸ヤ即姣?| 閸?| [Java](src/heap/_295_FindMedianFromDataStream.java) | 2026-06-09 |
+| 300 | [最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | 中等 | 动态规划 | [Java](src/dp/_300_LongestIncreasingSubsequence.java) | 2026-06-29 |
 | 322 | [零钱兑换](https://leetcode.cn/problems/coin-change/) | 中等 | 动态规划、完全背包 | [Java](src/dp/_322_CoinChange.java) | 2026-06-29 |
 | 433 | [最小基因变化](https://leetcode.cn/problems/minimum-genetic-mutation/) | 中等 | 图、BFS | [Java](src/graph/_433_MinimumGeneticMutation.java) | 2026-03-20 |
 | 502 | [IPO](https://leetcode.cn/problems/ipo/) | 閸ヤ即姣?| 閸棎鈧浇妞借箛?| [Java](src/heap/_502_IPO.java) | 2026-06-09 |
