@@ -38,7 +38,7 @@
 
 ## 閸掔兘顣芥潻娑樺
 
-- 简单 Easy：0 题 - 中等 Medium：9 题 - 困难 Hard：5 题
+- 简单 Easy：0 题 - 中等 Medium：10 题 - 困难 Hard：5 题
 
 | 妫版ê褰?| 妫版娲?| 闂呮儳瀹?| 閺嶅洨顒?| 妫版袙 | 鐎瑰本鍨氶弮銉︽埂 |
 |------|------|------|------|------|----------|
@@ -56,6 +56,7 @@
 | 53 | [閺堚偓婢堆冪摍閺佹壆绮嶉崪瀹?https://leetcode.cn/problems/maximum-subarray/) | 娑擃厾鐡?| 閸斻劍鈧浇顫夐崚鎺嬧偓浣稿瀻濞?| [Java](src/array/_53_MaximumSubarray.java) | 2026-05-07 |
 | 66 | [加一](https://leetcode.cn/problems/plus-one/) | 简单 | 数组 | [Java](src/math/_66_PlusOne.java) | 2026-06-11 |
 | 67 | [娴滃矁绻橀崚鑸电湴閸滃畟(https://leetcode.cn/problems/add-binary/) | 缁犫偓閸?| 鐎涙顑佹稉?| [Java](src/string/_67_AddBinary.java) | 2026-06-09 |
+| 70 | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/) | 简单 | 动态规划 | [Java](src/math/_70_ClimbingStairs.java) | 2026-06-29 |
 | 69 | [x 的平方根](https://leetcode.cn/problems/sqrtx/) | 简单 | 二分法 | [Java](src/math/_69_SqrtX.java) | 2026-06-11 |
 | 74 | [閹兼粎鍌ㄦ禍宀€娣惌鈺呮█](https://leetcode.cn/problems/search-a-2d-matrix/) | 娑擃厾鐡?| 閺佹壆绮嶉妴浣虹叐闂冪偣鈧椒绨╅崚鍡樼叀閹?| [Java](src/array/_74_SearchA2DMatrix.java) | 2026-05-09 |
 | 77 | [缂佸嫬鎮嶿(https://leetcode.cn/problems/combinations/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕礁澹€閺?| [Java](src/backtracking/_77_Combinations.java) | 2026-04-01 |
