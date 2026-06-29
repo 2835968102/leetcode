@@ -1,4 +1,4 @@
-﻿# Java 缁犳纭舵０妯啃?
+# Java 缁犳纭舵０妯啃?
 
 閻?Java 閸掗鐣诲▔鏇㈩暯閻ㄥ嫪鍞惍浣风波鎼存搫绱濇稉鏄忣洣鐟曞棛娲?LeetCode 缁涘閽╅崣鎵畱妫版娲伴妴?
 ## 閻╊喖缍嶇紒鎾寸€?
@@ -38,7 +38,7 @@
 
 ## 閸掔兘顣芥潻娑樺
 
-- 绠€鍗?Easy锛?0 棰?- 涓瓑 Medium锛?7 棰?- 鍥伴毦 Hard锛? 棰?## 妫版娲伴崚妤勩€?
+- 简单 Easy：0 题 - 中等 Medium：8 题 - 困难 Hard：5 题
 
 | 妫版ê褰?| 妫版娲?| 闂呮儳瀹?| 閺嶅洨顒?| 妫版袙 | 鐎瑰本鍨氶弮銉︽埂 |
 |------|------|------|------|------|----------|
@@ -51,6 +51,7 @@
 | 35 | [閹兼粎鍌ㄩ幓鎺戝弳娴ｅ秶鐤哴(https://leetcode.cn/problems/search-insert-position/) | 缁犫偓閸?| 閺佹壆绮嶉妴浣风癌閸掑棙鐓￠幍?| [Java](src/array/_35_SearchInsertPosition.java) | 2026-05-09 |
 | 39 | [缂佸嫬鎮庨幀璇叉嫲](https://leetcode.cn/problems/combination-sum/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S | [Java](src/backtracking/_39_CombinationSum.java) | 2026-04-02 |
 | 46 | [閸忋劍甯撻崚姊?https://leetcode.cn/problems/permutations/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S | [Java](src/backtracking/_46_Permutations.java) | 2026-04-01 |
+| 50 | [Pow(x, n)](https://leetcode.cn/problems/powx-n/) | 中等 | 二分法/快速幂 | [Java](src/math/_50_PowxN.java) | 2026-06-11 |
 | 52 | [N 閻ㄥ洤鎮?II](https://leetcode.cn/problems/n-queens-ii/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕椒缍呮潻鎰暬 | [Java](src/backtracking/_52_NQueensII.java) | 2026-04-07 |
 | 53 | [閺堚偓婢堆冪摍閺佹壆绮嶉崪瀹?https://leetcode.cn/problems/maximum-subarray/) | 娑擃厾鐡?| 閸斻劍鈧浇顫夐崚鎺嬧偓浣稿瀻濞?| [Java](src/array/_53_MaximumSubarray.java) | 2026-05-07 |
 | 66 | [加一](https://leetcode.cn/problems/plus-one/) | 简单 | 数组 | [Java](src/math/_66_PlusOne.java) | 2026-06-11 |
@@ -75,6 +76,7 @@
 | 133 | [閸忓娈曢崶缍?https://leetcode.cn/problems/clone-graph/) | 娑擃厾鐡?| 閸ヤ勘鈧笍FS閵嗕礁鎼辩敮宀冦€?| [Java](src/graph/_133_CloneGraph.java) | 2026-03-18 |
 | 136 | [只出现一次的数字](https://leetcode.cn/problems/single-number/) | 简单 | 位运算 | [Java](src/math/_136_SingleNumber.java) | 2026-06-10 |
 | 137 | [只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/) | 简单 | 位运算 | [Java](src/math/_137_SingleNumberII.java) | 2026-06-11 |
+| 139 | [单词拆分](https://leetcode.cn/problems/word-break/) | 中等 | 动态规划 | [Java](src/dp/_139_WordBreak.java) | 2026-06-29 |
 | 144 | [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | 简单 | 树、递归、DFS | [Java](src/tree/_144_BinaryTreePreorderTraversal.java) | 2026-03-10 |
 | 148 | [閹烘帒绨柧鎹愩€僝(https://leetcode.cn/problems/sort-list/) | 娑擃厾鐡?| 闁炬崘銆冮妴浣哥秺楠炶埖甯撴惔蹇嬧偓浣告彥閹便垺瀵氶柦?| [Java](src/linkedlist/_148_SortList.java) | 2026-04-28 |
 | 162 | [鐎电粯澹樺畡鏉库偓绯?https://leetcode.cn/problems/find-peak-element/) | 缁犫偓閸?| 娴滃苯鍨庨幖婊呭偍 | [Java](src/binarysearch/_162_FindPeakElement.java) | 2026-06-08 |
