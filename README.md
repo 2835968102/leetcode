@@ -38,7 +38,7 @@
 
 ## 閸掔兘顣芥潻娑樺
 
-- 简单 Easy：0 题 - 中等 Medium：12 题 - 困难 Hard：5 题
+- 简单 Easy：0 题 - 中等 Medium：13 题 - 困难 Hard：5 题
 
 | 妫版ê褰?| 妫版娲?| 闂呮儳瀹?| 閺嶅洨顒?| 妫版袙 | 鐎瑰本鍨氶弮銉︽埂 |
 |------|------|------|------|------|----------|
@@ -70,7 +70,8 @@
 | 112 | [鐠侯垰绶為幀璇叉嫲](https://leetcode.cn/problems/path-sum/) | 缁犫偓閸?| 閺嶆垯鈧笍FS閵嗕線鈧帒缍?| [Java](src/tree/_112_PathSum.java) | 2026-03-10 |
 | 114 | [娴滃苯寮堕弽鎴濈潔瀵偓娑撴椽鎽肩悰鈺?https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | 娑擃厾鐡?| 閺嶆垯鈧線鈧帒缍婇妴渚€鎽肩悰?| [Java](src/tree/_114_FlattenBinaryTreeToLinkedList.java) | 2026-03-10 |
 | 117 | [婵夘偄鍘栧В蹇庨嚋閼哄倻鍋ｉ惃鍕瑓娑撯偓娑擃亜褰告笟褑濡悙瑙勫瘹闁?II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/) | 娑擃厾鐡?| 閺嶆垯鈧竻FS | [Java](src/tree/_117_PopulatingNextRightPointersInEachNodeII.java) | 2026-03-05 |
-| 124 | [娴滃苯寮堕弽鎴滆厬閻ㄥ嫭娓舵径褑鐭惧鍕嫲](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | 閸ヤ即姣?| 閺嶆垯鈧笍FS閵嗕線鈧帒缍?| [Java](src/tree/_124_BinaryTreeMaximumPathSum.java) | 2026-03-11 |
+| 120 | [三角形最小路径和](https://leetcode.cn/problems/triangle/) | 中等 | 动态规划 | [Java](src/dp/_120_Triangle.java) | 2026-06-30 |
+| 124 | [二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/) | 困难 | 树、DFS、递归 | [Java](src/tree/_124_BinaryTreeMaximumPathSum.java) | 2026-03-11 |
 | 127 | [閸楁洝鐦濋幒銉╃烦](https://leetcode.cn/problems/word-ladder/) | 娑擃厾鐡?| 閸ヤ勘鈧竻FS | [Java](src/graph/_127_WordLadder.java) | 2026-03-20 |
 | 129 | [濮瑰倹鐗撮懞鍌滃仯閸掓澘褰鹃懞鍌滃仯閺佹澘鐡ф稊瀣嫲](https://leetcode.cn/problems/sum-root-to-leaf-numbers/) | 娑擃厾鐡?| 閺嶆垯鈧笍FS閵嗕線鈧帒缍?| [Java](src/tree/_129_SumRootToLeafNumbers.java) | 2026-03-10 |
 | 130 | [鐞氼偄娲跨紒鏇犳畱閸栧搫鐓橾(https://leetcode.cn/problems/surrounded-regions/) | 娑擃厾鐡?| 閸ヤ勘鈧笍FS閵嗕胶缍夐弽?| [Java](src/graph/_130_SurroundedRegions.java) | 2026-03-18 |
