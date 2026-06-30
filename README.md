@@ -38,7 +38,7 @@
 
 ## 閸掔兘顣芥潻娑樺
 
-- 简单 Easy：0 题 - 中等 Medium：14 题 - 困难 Hard：5 题
+- 简单 Easy：0 题 - 中等 Medium：15 题 - 困难 Hard：5 题
 
 | 妫版ê褰?| 妫版娲?| 闂呮儳瀹?| 閺嶅洨顒?| 妫版袙 | 鐎瑰本鍨氶弮銉︽埂 |
 |------|------|------|------|------|----------|
@@ -54,6 +54,7 @@
 | 50 | [Pow(x, n)](https://leetcode.cn/problems/powx-n/) | 中等 | 二分法/快速幂 | [Java](src/math/_50_PowxN.java) | 2026-06-11 |
 | 52 | [N 閻ㄥ洤鎮?II](https://leetcode.cn/problems/n-queens-ii/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕椒缍呮潻鎰暬 | [Java](src/backtracking/_52_NQueensII.java) | 2026-04-07 |
 | 53 | [閺堚偓婢堆冪摍閺佹壆绮嶉崪瀹?https://leetcode.cn/problems/maximum-subarray/) | 娑擃厾鐡?| 閸斻劍鈧浇顫夐崚鎺嬧偓浣稿瀻濞?| [Java](src/array/_53_MaximumSubarray.java) | 2026-05-07 |
+| 63 | [不同路径 II](https://leetcode.cn/problems/unique-paths-ii/) | 中等 | 动态规划 | [Java](src/dp/_63_UniquePathsII.java) | 2026-06-30 |
 | 64 | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | 中等 | 动态规划 | [Java](src/dp/_64_MinimumPathSum.java) | 2026-06-30 |
 | 66 | [加一](https://leetcode.cn/problems/plus-one/) | 简单 | 数组 | [Java](src/math/_66_PlusOne.java) | 2026-06-11 |
 | 67 | [娴滃矁绻橀崚鑸电湴閸滃畟(https://leetcode.cn/problems/add-binary/) | 缁犫偓閸?| 鐎涙顑佹稉?| [Java](src/string/_67_AddBinary.java) | 2026-06-09 |
