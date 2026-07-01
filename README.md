@@ -38,7 +38,7 @@
 
 ## 閸掔兘顣芥潻娑樺
 
-- 简单 Easy：0 题 - 中等 Medium：15 题 - 困难 Hard：5 题
+- 简单 Easy：0 题 - 中等 Medium：16 题 - 困难 Hard：5 题
 
 | 妫版ê褰?| 妫版娲?| 闂呮儳瀹?| 閺嶅洨顒?| 妫版袙 | 鐎瑰本鍨氶弮銉︽埂 |
 |------|------|------|------|------|----------|
@@ -63,7 +63,8 @@
 | 74 | [閹兼粎鍌ㄦ禍宀€娣惌鈺呮█](https://leetcode.cn/problems/search-a-2d-matrix/) | 娑擃厾鐡?| 閺佹壆绮嶉妴浣虹叐闂冪偣鈧椒绨╅崚鍡樼叀閹?| [Java](src/array/_74_SearchA2DMatrix.java) | 2026-05-09 |
 | 77 | [缂佸嫬鎮嶿(https://leetcode.cn/problems/combinations/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕礁澹€閺?| [Java](src/backtracking/_77_Combinations.java) | 2026-04-01 |
 | 79 | [閸楁洝鐦濋幖婊呭偍](https://leetcode.cn/problems/word-search/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕胶鐓╅梼?| [Java](src/backtracking/_79_WordSearch.java) | 2026-04-09 |
-| 98 | [妤犲矁鐦夋禍灞藉级閹兼粎鍌ㄩ弽鎱?https://leetcode.cn/problems/validate-binary-search-tree/) | 娑擃厾鐡?| 閺嶆垯鈧竻ST閵嗕椒鑵戞惔蹇涗憾閸樺棎鈧焦鐖?| [Java](src/tree/_98_ValidateBinarySearchTree.java) | 2026-03-17 |
+| 97 | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | 中等 | 动态规划 | [Java](src/dp/_97_InterleavingString.java) | 2026-07-01 |
+| 98 | [验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/) | 中等 | 树、BST、中序遍历、栈 | [Java](src/tree/_98_ValidateBinarySearchTree.java) | 2026-03-17 |
 | 102 | [娴滃苯寮堕弽鎴犳畱鐏炲倸绨柆宥呭坊](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | 娑擃厾鐡?| 閺嶆垯鈧竻FS | [Java](src/tree/_102_BinaryTreeLevelOrderTraversal.java) | 2026-03-16 |
 | 103 | [娴滃苯寮堕弽鎴犳畱闁款垶濞囪ぐ銏犵湴鎼村繘浜堕崢鍝?https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/) | 娑擃厾鐡?| 閺嶆垯鈧竻FS | [Java](src/tree/_103_BinaryTreeZigzagLevelOrderTraversal.java) | 2026-03-17 |
 | 105 | [娴犲骸澧犳惔蹇庣瑢娑擃厼绨柆宥呭坊鎼村繐鍨弸鍕偓鐘辩癌閸欏鐖瞉(https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 娑擃厾鐡?| 閺嶆垯鈧礁鎼辩敮宀冦€冮妴渚€鈧帒缍?| [Java](src/tree/_105_ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | 2026-03-05 |
