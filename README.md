@@ -38,7 +38,7 @@
 
 ## 閸掔兘顣芥潻娑樺
 
-- 简单 Easy：0 题 - 中等 Medium：16 题 - 困难 Hard：5 题
+- 简单 Easy：0 题 - 中等 Medium：16 题 - 困难 Hard：6 题
 
 | 妫版ê褰?| 妫版娲?| 闂呮儳瀹?| 閺嶅洨顒?| 妫版袙 | 鐎瑰本鍨氶弮銉︽埂 |
 |------|------|------|------|------|----------|
@@ -60,7 +60,8 @@
 | 67 | [娴滃矁绻橀崚鑸电湴閸滃畟(https://leetcode.cn/problems/add-binary/) | 缁犫偓閸?| 鐎涙顑佹稉?| [Java](src/string/_67_AddBinary.java) | 2026-06-09 |
 | 70 | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/) | 简单 | 动态规划 | [Java](src/math/_70_ClimbingStairs.java) | 2026-06-29 |
 | 69 | [x 的平方根](https://leetcode.cn/problems/sqrtx/) | 简单 | 二分法 | [Java](src/math/_69_SqrtX.java) | 2026-06-11 |
-| 74 | [閹兼粎鍌ㄦ禍宀€娣惌鈺呮█](https://leetcode.cn/problems/search-a-2d-matrix/) | 娑擃厾鐡?| 閺佹壆绮嶉妴浣虹叐闂冪偣鈧椒绨╅崚鍡樼叀閹?| [Java](src/array/_74_SearchA2DMatrix.java) | 2026-05-09 |
+| 72 | [编辑距离](https://leetcode.cn/problems/edit-distance/) | 困难 | 动态规划 | [Java](src/dp/_72_EditDistance.java) | 2026-07-01 |
+| 74 | [搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/) | 中等 | 数组、矩阵、二分查找 | [Java](src/array/_74_SearchA2DMatrix.java) | 2026-05-09 |
 | 77 | [缂佸嫬鎮嶿(https://leetcode.cn/problems/combinations/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕礁澹€閺?| [Java](src/backtracking/_77_Combinations.java) | 2026-04-01 |
 | 79 | [閸楁洝鐦濋幖婊呭偍](https://leetcode.cn/problems/word-search/) | 娑擃厾鐡?| 閸ョ偞鍑介妴涓廎S閵嗕胶鐓╅梼?| [Java](src/backtracking/_79_WordSearch.java) | 2026-04-09 |
 | 97 | [交错字符串](https://leetcode.cn/problems/interleaving-string/) | 中等 | 动态规划 | [Java](src/dp/_97_InterleavingString.java) | 2026-07-01 |
