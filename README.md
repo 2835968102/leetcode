@@ -38,7 +38,7 @@
 
 ## 閸掔兘顣芥潻娑樺
 
-- 简单 Easy：0 题 - 中等 Medium：16 题 - 困难 Hard：7 题
+- 简单 Easy：0 题 - 中等 Medium：16 题 - 困难 Hard：8 题
 
 | 妫版ê褰?| 妫版娲?| 闂呮儳瀹?| 閺嶅洨顒?| 妫版袙 | 鐎瑰本鍨氶弮銉︽埂 |
 |------|------|------|------|------|----------|
@@ -89,7 +89,8 @@
 | 162 | [鐎电粯澹樺畡鏉库偓绯?https://leetcode.cn/problems/find-peak-element/) | 缁犫偓閸?| 娴滃苯鍨庨幖婊呭偍 | [Java](src/binarysearch/_162_FindPeakElement.java) | 2026-06-08 |
 | 172 | [阶乘后的零](https://leetcode.cn/problems/factorial-trailing-zeroes/) | 中等 | 数学 | [Java](src/math/_172_FactorialTrailingZeroes.java) | 2026-06-11 |
 | 173 | [娴滃苯寮堕幖婊呭偍閺嶆垼鍑禒锝呮珤](https://leetcode.cn/problems/binary-search-tree-iterator/) | 娑擃厾鐡?| 閺嶆垯鈧焦鐖ら妴浣藉嚡娴狅絽娅掗妴涓匰T | [Java](src/tree/_173_BinarySearchTreeIterator.java) | 2026-03-11 |
-| 190 | [棰犲€掍簩杩涘埗浣峕(https://leetcode.cn/problems/reverse-bits/) | 绠€鍗?| 浣嶈繍绠?| [Java](src/string/_190_ReverseBits.java) | 2026-06-09 |
+| 188 | [买卖股票的最佳时机 IV](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/) | 困难 | 动态规划、状态机 | [Java](src/dp/_188_BestTimeToBuyAndSellStockIV.java) | 2026-07-01 |
+| 190 | [颠倒二进制位](https://leetcode.cn/problems/reverse-bits/) | 简单 | 位运算 | [Java](src/string/_190_ReverseBits.java) | 2026-06-09 |
 | 191 | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/) | 简单 | 位运算 | [Java](src/math/_191_NumberOf1Bits.java) | 2026-06-10 |
 | 198 | [打家劫舍](https://leetcode.cn/problems/house-robber/) | 中等 | 动态规划 | [Java](src/array/_198_HouseRobber.java) | 2026-06-29 |
 | 199 | [二叉树的右侧视图](https://leetcode.cn/problems/binary-tree-right-side-view/) | 中等 | 树、BFS | [Java](src/tree/_199_BinaryTreeRightSideView.java) | 2026-03-16 |
