@@ -6,6 +6,8 @@ package math;
  */
 public class _69_SqrtX {
     public int mySqrt(int x) {
+        if (x == 0) return 0;
+
         int left = 0;
         int right = x;
         int ans = 0;
@@ -25,4 +27,3 @@ public class _69_SqrtX {
         return ans;
     }
 }
-
