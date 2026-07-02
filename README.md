@@ -38,7 +38,7 @@
 
 ## 閸掔兘顣芥潻娑樺
 
-- 简单 Easy：1 题 - 中等 Medium：17 题 - 困难 Hard：8 题
+- 简单 Easy：2 题 - 中等 Medium：17 题 - 困难 Hard：8 题
 
 | 妫版ê褰?| 妫版娲?| 闂呮儳瀹?| 閺嶅洨顒?| 妫版袙 | 鐎瑰本鍨氶弮銉︽埂 |
 |------|------|------|------|------|----------|
@@ -114,4 +114,5 @@
 | 509 | [斐波那契数](https://leetcode.cn/problems/fibonacci-number/) | 简单 | 动态规划 | [Java](src/dp/_509_FibonacciNumber.java) | 2026-07-02 |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/) | 简单 | 树、BST、中序遍历、DFS | [Java](src/tree/_530_MinimumAbsoluteDifferenceInBst.java) | 2026-03-17 |
 | 637 | [娴滃苯寮堕弽鎴犳畱鐏炲倸閽╅崸鍥р偓绯?https://leetcode.cn/problems/average-of-levels-in-binary-tree/) | 缁犫偓閸?| 閺嶆垯鈧竻FS | [Java](src/tree/_637_AverageOfLevelsInBinaryTree.java) | 2026-03-16 |
+| 746 | [最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | 简单 | 动态规划 | [Java](src/dp/_746_MinCostClimbingStairs.java) | 2026-07-02 |
 | 918 | [閻滎垰鑸扮€涙劖鏆熺紒鍕畱閺堚偓婢堆冩嫲](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | 娑擃厾鐡?| 閸斻劍鈧浇顫夐崚鎺嬧偓浣稿缂傗偓閸?| [Java](src/array/_918_MaximumSumCircularSubarray.java) | 2026-05-07 |
