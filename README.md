@@ -38,7 +38,7 @@
 
 ## 閸掔兘顣芥潻娑樺
 
-- 简单 Easy：2 题 - 中等 Medium：19 题 - 困难 Hard：8 题
+- 简单 Easy：2 题 - 中等 Medium：20 题 - 困难 Hard：8 题
 
 | 妫版ê褰?| 妫版娲?| 闂呮儳瀹?| 閺嶅洨顒?| 妫版袙 | 鐎瑰本鍨氶弮銉︽埂 |
 |------|------|------|------|------|----------|
@@ -118,3 +118,4 @@
 | 740 | [删除并获得点数](https://leetcode.cn/problems/delete-and-earn/) | 中等 | 动态规划 | [Java](src/dp/_740_DeleteAndEarn.java) | 2026-07-07 |
 | 746 | [最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/) | 简单 | 动态规划 | [Java](src/dp/_746_MinCostClimbingStairs.java) | 2026-07-02 |
 | 918 | [閻滎垰鑸扮€涙劖鏆熺紒鍕畱閺堚偓婢堆冩嫲](https://leetcode.cn/problems/maximum-sum-circular-subarray/) | 娑擃厾鐡?| 閸斻劍鈧浇顫夐崚鎺嬧偓浣稿缂傗偓閸?| [Java](src/array/_918_MaximumSumCircularSubarray.java) | 2026-05-07 |
+| 931 | [下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | 中等 | 动态规划 | [Java](src/dp/_931_MinimumFallingPathSum.java) | 2026-07-07 |
