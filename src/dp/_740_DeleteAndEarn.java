@@ -41,4 +41,31 @@ public class _740_DeleteAndEarn {
 
         return dp[max];
     }
+
+    public int deleteAndEarnOptimized(int[] nums) {
+        int max = 0;
+        for (int x : nums) {
+            max = Math.max(max, x);
+        }
+
+        int[] sum = new int[max + 1];
+        for (int x : nums) {
+            sum[x] += x;
+        }
+
+        if (max == 0) {
+            return 0;
+        }
+
+        int pre2 = 0;
+        int pre1 = sum[1];
+
+        for (int i = 2; i <= max; i++) {
+            int cur = Math.max(pre1, pre2 + sum[i]);
+            pre2 = pre1;
+            pre1 = cur;
+        }
+
+        return pre1;
+    }
 }
